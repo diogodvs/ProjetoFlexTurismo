@@ -3,3 +3,5 @@
 site criado a partir do bootcamp da dio em parceria com a santander
 
 foi usado basico de front end, sendo html e css apenas
+
+link githubpages: https://diogodvs.github.io/ProjetoFlexTurismo/
