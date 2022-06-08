@@ -170,8 +170,8 @@ header {
 }
 
 #planos {
-    height: 100vh;
     flex-direction: column;
+    padding-bottom: 60px;
 }
 
 #planos h2 {
